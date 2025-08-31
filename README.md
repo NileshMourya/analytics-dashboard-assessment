@@ -46,7 +46,7 @@ Your submission will be evaluated based on:
 - **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
 
 - Nilesh Mourya
-- live project link :- https://vercel.com/cnvmoney/analytics-dashboard/CDCh9TDkDC94DezBKeUKE5MunkFd
+- live project link :- [https://vercel.com/cnvmoney/analytics-dashboard/CDCh9TDkDC94DezBKeUKE5MunkFd](https://analytics-dashboard-7hroc9seo-cnvmoney.vercel.app/
   - vedantp@mapup.ai
   - ajayap@mapup.ai
   - atharvd@mapup.ai
