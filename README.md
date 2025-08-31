@@ -40,7 +40,13 @@ Your submission will be evaluated based on:
 - Complete your analysis and create the frontend dashboard.
 - Deploy the dashboard to a hosting platform.
 - Update this [README.md](README.md) file with the URL to your live dashboard.
+
+
+
 - **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
+
+- Nilesh Mourya
+- live project link :- https://vercel.com/cnvmoney/analytics-dashboard/CDCh9TDkDC94DezBKeUKE5MunkFd
   - vedantp@mapup.ai
   - ajayap@mapup.ai
   - atharvd@mapup.ai
